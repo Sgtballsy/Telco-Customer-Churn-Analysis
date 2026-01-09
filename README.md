@@ -6,7 +6,7 @@ Status: ✅ Completed | Type: Classification & Business Strategy
 The client, a Telecom provider, is facing a high churn rate (26%). Acquiring a new customer costs 5x more than retaining an existing one. The goal of this project was to identify high-risk customers before they leave and develop a retention strategy.
 2. The Solution
 
-I built a Random Forest Classifier that predicts the probability of a customer churning with 82% Accuracy.
+I built a Random Forest Classifier that predicts the probability of a customer churning with 78.54% Accuracy.
 
 Key Technical Steps:
 
