@@ -18,7 +18,8 @@ Key Technical Steps:
 
 3. Key Insights (The "Why")
 
-(Insert your Feature Importance Plot here)
+<img width="1065" height="547" alt="output" src="https://github.com/user-attachments/assets/29e96d72-2c98-4234-ada2-060f0777a791" />
+
 
     Insight 1: Customers on Month-to-month contracts are 5x more likely to churn.
 
